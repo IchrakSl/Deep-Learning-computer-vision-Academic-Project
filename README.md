@@ -3,8 +3,11 @@ Our project is grounded in research, specifically inspired by the insights prese
 The models employed in our study included:
 
 -VGG19
+
 -ResNet50
+
 -Xception
+
 -Coursera CNN model
 
 Subsequently, we conducted a comprehensive comparative analysis of these models, ultimately choosing to ensemble the most effective ones.
