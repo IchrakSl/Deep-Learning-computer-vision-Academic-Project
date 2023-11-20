@@ -9,6 +9,8 @@ The models employed in our study included:
 
 Subsequently, we conducted a comprehensive comparative analysis of these models, ultimately choosing to ensemble the most effective ones.
 
+![](https://github.com/IchrakSl/Deep-Learning-computer-vision-Academic-Project/blob/main/Comparison.JPG)
+
 # Model Deployment
 To make our model accessible, we deployed it as a web extension developed using JavaScript.
 
